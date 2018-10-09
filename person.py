@@ -36,13 +36,13 @@ class Person(object):
 		- Generates a random number between 0 and 1.
 		- Compares random number to mortality_rate attribute stored in person's infection
 			attribute.
-			- If random number is smaller, person has died from disease.
+			- If random number is smaller, person has died from disease/.
 				is_alive is changed to false.
 			- If random number is larger, person has survived disease.  Person's
 			is_vaccinated attribute is changed to True, and set self.infected to None.
 	'''
 
-	_id = randomInt()
+	_id = randomInt(0, 1)
 
 	def __init__(self, _id, is_vaccinated, infected=None):
 		# TODO:  Finish this method.  Follow the instructions in the class documentation
@@ -57,4 +57,9 @@ class Person(object):
 		# TODO:  Finish this method. Follow the instructions in the class documentation
 		# for resolve_infection.  If person dies, set is_alive to False and return False.
 		# If person lives, set is_vaccinated = True, infected = None, return True.  
-		pass
+		
+		if self._id > self.infected#mortality rate
+			self.is_vaccinated = True
+			self.infected = None
+		else: 
+			self.is_alive = False
