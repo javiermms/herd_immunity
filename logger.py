@@ -53,7 +53,7 @@ class Logger(object):
 	def __init__(self, file_name):
 		# TODO:  Finish this initialization method.  The file_name passed should be the
 		# full file name of the file that the logs will be written to.
-		self.file_name = None
+		self.file_name = file_name
 
 	def write_metadata(self, pop_size, vacc_percentage, virus_name, mortality_rate,
 					   basic_repro_num):
@@ -67,7 +67,9 @@ class Logger(object):
 		# since 'w' overwrites the file.
 		# NOTE: Make sure to end every line with a '/n' character to ensure that each
 		# event logged ends up on a separate line!
-		pass
+		file = open(self.file_name, "w")
+		#pop size might be wrong
+		file.write("Population size: " + pop_size + "\t Vacc Percentage: " + vacc_percentage + "\t Virus Name: " + virus_name + "\t Mortality Rate: " + mortality_rate + "\t Infection Rate: " + basic_repro_num + "\n")
 
 	def log_interaction(self, person1, person2, did_infect=None,
 						person2_vacc=None, person2_sick=None):
@@ -82,7 +84,15 @@ class Logger(object):
 		# all the possible edge cases!
 		# NOTE: Make sure to end every line with a '/n' character to ensure that each
 		# event logged ends up on a separate line!
-		pass
+		file = open(self.file_name, "a")
+		if(did_infect):
+			file.write("Person {} infected Person-{}\n".format(person1._id,person2._id))
+		elif(person2_vacc):
+			file.write("Person {} was not able to infect Person: {} already vaccinated\n".format(person1._id,person2._id))
+		elif(person2_sick):
+			file.write("Person {} was not able to infect Person: {} already infected\n".format(person1._id,person2._id))
+		else:
+			file.write("Person {} was not able to infect Person: {} because God had a plan and it wasn't Person {}'s' day to get infected\n".format(person1._id,person2._id,person2._id))
 
 	def log_infection_survival(self, person, did_die_from_infection):
 		# TODO: Finish this method.  The Simulation object should use this method to log
@@ -92,7 +102,11 @@ class Logger(object):
 		# on the format of the log.
 		# NOTE: Make sure to end every line with a '/n' character to ensure that each
 		# event logged ends up on a separate line!
-		pass
+		file = open(self.file_name, "a")
+		if did_die_from_infection:
+			file.write("Person " + str(person._id) + " died. \n")
+		else:
+			file.write("Person " + str(person._id) + " survived. \n")
 
 	def log_time_step(self, time_step_number):
 		# TODO: Finish this method.  This method should log when a time step ends, and a
@@ -103,4 +117,5 @@ class Logger(object):
 		# to compute these statistics for you, as a Logger's job is just to write logs!
 		# NOTE: Make sure to end every line with a '/n' character to ensure that each
 		# event logged ends up on a separate line!
-		pass
+		file = open(self.file_name, "a")
+		file.write("Time step starts: " + str(time_step_number) + "\n")

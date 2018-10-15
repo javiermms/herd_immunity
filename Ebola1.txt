@@ -1,0 +1,910 @@
+Time step starts: 1
+Person 0 was not able to infect Person: 76490 because God had a plan and it wasn't Person 76490's' day to get infected
+Person 0 was not able to infect Person: 61713 already vaccinated
+Person 0 was not able to infect Person: 51709 already vaccinated
+Person 0 was not able to infect Person: 5681 already vaccinated
+Person 0 infected Person-57137
+Person 0 was not able to infect Person: 41557 already vaccinated
+Person 0 was not able to infect Person: 46587 already vaccinated
+Person 0 infected Person-33917
+Person 0 was not able to infect Person: 13197 already vaccinated
+Person 0 was not able to infect Person: 14864 already vaccinated
+Person 0 was not able to infect Person: 62000 already vaccinated
+Person 0 was not able to infect Person: 87144 already vaccinated
+Person 0 was not able to infect Person: 26855 already vaccinated
+Person 0 was not able to infect Person: 71510 because God had a plan and it wasn't Person 71510's' day to get infected
+Person 0 was not able to infect Person: 16483 already vaccinated
+Person 0 infected Person-11918
+Person 0 infected Person-16371
+Person 0 was not able to infect Person: 16199 already vaccinated
+Person 0 was not able to infect Person: 75443 because God had a plan and it wasn't Person 75443's' day to get infected
+Person 0 was not able to infect Person: 26598 already vaccinated
+Person 0 was not able to infect Person: 74980 already vaccinated
+Person 0 was not able to infect Person: 15264 already vaccinated
+Person 0 was not able to infect Person: 28444 because God had a plan and it wasn't Person 28444's' day to get infected
+Person 0 was not able to infect Person: 21989 because God had a plan and it wasn't Person 21989's' day to get infected
+Person 0 was not able to infect Person: 29783 already vaccinated
+Person 0 infected Person-15447
+Person 0 was not able to infect Person: 4678 already vaccinated
+Person 0 was not able to infect Person: 56308 already vaccinated
+Person 0 infected Person-13293
+Person 0 was not able to infect Person: 35124 because God had a plan and it wasn't Person 35124's' day to get infected
+Person 0 was not able to infect Person: 26295 because God had a plan and it wasn't Person 26295's' day to get infected
+Person 0 was not able to infect Person: 20809 already vaccinated
+Person 0 was not able to infect Person: 32044 because God had a plan and it wasn't Person 32044's' day to get infected
+Person 0 infected Person-86583
+Person 0 was not able to infect Person: 87587 already vaccinated
+Person 0 infected Person-20517
+Person 0 was not able to infect Person: 39528 already vaccinated
+Person 0 infected Person-69240
+Person 0 infected Person-29861
+Person 0 was not able to infect Person: 37003 already vaccinated
+Person 0 was not able to infect Person: 50259 already vaccinated
+Person 0 was not able to infect Person: 18580 already vaccinated
+Person 0 was not able to infect Person: 49130 because God had a plan and it wasn't Person 49130's' day to get infected
+Person 0 was not able to infect Person: 80756 already vaccinated
+Person 0 was not able to infect Person: 58891 because God had a plan and it wasn't Person 58891's' day to get infected
+Person 0 was not able to infect Person: 36728 already vaccinated
+Person 0 was not able to infect Person: 2191 already vaccinated
+Person 0 was not able to infect Person: 15809 already vaccinated
+Person 0 infected Person-90691
+Person 0 was not able to infect Person: 64430 because God had a plan and it wasn't Person 64430's' day to get infected
+Person 0 was not able to infect Person: 38818 because God had a plan and it wasn't Person 38818's' day to get infected
+Person 0 was not able to infect Person: 47042 already vaccinated
+Person 0 was not able to infect Person: 52195 already vaccinated
+Person 0 infected Person-19596
+Person 0 was not able to infect Person: 45355 already vaccinated
+Person 0 was not able to infect Person: 8730 already vaccinated
+Person 0 was not able to infect Person: 47534 already vaccinated
+Person 0 infected Person-35889
+Person 0 infected Person-31544
+Person 0 was not able to infect Person: 28317 already vaccinated
+Person 0 was not able to infect Person: 5640 already vaccinated
+Person 0 infected Person-97424
+Person 0 was not able to infect Person: 82629 already vaccinated
+Person 0 was not able to infect Person: 83930 already vaccinated
+Person 0 was not able to infect Person: 45722 already vaccinated
+Person 0 was not able to infect Person: 13370 already vaccinated
+Person 0 infected Person-52926
+Person 0 infected Person-80215
+Person 0 infected Person-63745
+Person 0 infected Person-34873
+Person 0 was not able to infect Person: 36201 already vaccinated
+Person 0 was not able to infect Person: 59529 already vaccinated
+Person 0 was not able to infect Person: 85570 already vaccinated
+Person 0 was not able to infect Person: 78496 already vaccinated
+Person 0 infected Person-80881
+Person 0 was not able to infect Person: 17163 already vaccinated
+Person 0 was not able to infect Person: 48946 already vaccinated
+Person 0 was not able to infect Person: 93997 already vaccinated
+Person 0 infected Person-9435
+Person 0 infected Person-78730
+Person 0 was not able to infect Person: 3637 because God had a plan and it wasn't Person 3637's' day to get infected
+Person 0 was not able to infect Person: 66723 already vaccinated
+Person 0 was not able to infect Person: 37076 already vaccinated
+Person 0 was not able to infect Person: 88833 already vaccinated
+Person 0 infected Person-70055
+Person 0 was not able to infect Person: 33696 already vaccinated
+Person 0 was not able to infect Person: 19634 already vaccinated
+Person 0 infected Person-8615
+Person 0 infected Person-2984
+Person 0 infected Person-4481
+Person 0 was not able to infect Person: 68505 already vaccinated
+Person 0 was not able to infect Person: 30842 already vaccinated
+Person 0 was not able to infect Person: 54539 already vaccinated
+Person 0 was not able to infect Person: 16075 because God had a plan and it wasn't Person 16075's' day to get infected
+Person 0 was not able to infect Person: 41660 already vaccinated
+Person 0 was not able to infect Person: 50940 already vaccinated
+Person 0 was not able to infect Person: 26018 already vaccinated
+Person 0 was not able to infect Person: 29520 because God had a plan and it wasn't Person 29520's' day to get infected
+Person 0 was not able to infect Person: 34912 already vaccinated
+Person 0 was not able to infect Person: 42868 already vaccinated
+Person 1 was not able to infect Person: 82802 already vaccinated
+Person 1 was not able to infect Person: 34424 already vaccinated
+Person 1 was not able to infect Person: 81330 already vaccinated
+Person 1 was not able to infect Person: 41357 already vaccinated
+Person 1 was not able to infect Person: 2354 because God had a plan and it wasn't Person 2354's' day to get infected
+Person 1 infected Person-17661
+Person 1 was not able to infect Person: 13282 already vaccinated
+Person 1 was not able to infect Person: 40355 already vaccinated
+Person 1 was not able to infect Person: 97629 already vaccinated
+Person 1 infected Person-70165
+Person 1 infected Person-57076
+Person 1 was not able to infect Person: 82131 already vaccinated
+Person 1 was not able to infect Person: 83975 because God had a plan and it wasn't Person 83975's' day to get infected
+Person 1 infected Person-86907
+Person 1 was not able to infect Person: 49041 already vaccinated
+Person 1 was not able to infect Person: 8654 already vaccinated
+Person 1 was not able to infect Person: 3825 already vaccinated
+Person 1 was not able to infect Person: 34350 already vaccinated
+Person 1 was not able to infect Person: 8335 already vaccinated
+Person 1 infected Person-20753
+Person 1 infected Person-62085
+Person 1 was not able to infect Person: 39701 because God had a plan and it wasn't Person 39701's' day to get infected
+Person 1 was not able to infect Person: 162 already vaccinated
+Person 1 infected Person-21508
+Person 1 was not able to infect Person: 13438 because God had a plan and it wasn't Person 13438's' day to get infected
+Person 1 infected Person-66844
+Person 1 was not able to infect Person: 15760 already vaccinated
+Person 1 was not able to infect Person: 76594 already vaccinated
+Person 1 was not able to infect Person: 17565 already vaccinated
+Person 1 was not able to infect Person: 90166 already vaccinated
+Person 1 infected Person-15072
+Person 1 was not able to infect Person: 4202 already vaccinated
+Person 1 infected Person-412
+Person 1 was not able to infect Person: 14920 already vaccinated
+Person 1 was not able to infect Person: 96505 already vaccinated
+Person 1 was not able to infect Person: 74023 already vaccinated
+Person 1 infected Person-56750
+Person 1 was not able to infect Person: 55541 because God had a plan and it wasn't Person 55541's' day to get infected
+Person 1 was not able to infect Person: 42010 already vaccinated
+Person 1 was not able to infect Person: 34384 already vaccinated
+Person 1 was not able to infect Person: 49691 already vaccinated
+Person 1 infected Person-96055
+Person 1 was not able to infect Person: 40166 already vaccinated
+Person 1 was not able to infect Person: 36185 because God had a plan and it wasn't Person 36185's' day to get infected
+Person 1 was not able to infect Person: 67342 already vaccinated
+Person 1 was not able to infect Person: 96639 already vaccinated
+Person 1 was not able to infect Person: 78603 already vaccinated
+Person 1 was not able to infect Person: 61831 already vaccinated
+Person 1 was not able to infect Person: 15901 already vaccinated
+Person 1 was not able to infect Person: 23724 already vaccinated
+Person 1 was not able to infect Person: 62877 already vaccinated
+Person 1 was not able to infect Person: 57725 because God had a plan and it wasn't Person 57725's' day to get infected
+Person 1 was not able to infect Person: 61223 already vaccinated
+Person 1 infected Person-23790
+Person 1 was not able to infect Person: 92778 already vaccinated
+Person 1 was not able to infect Person: 4098 already vaccinated
+Person 1 was not able to infect Person: 82127 already vaccinated
+Person 1 was not able to infect Person: 55761 already vaccinated
+Person 1 infected Person-58943
+Person 1 infected Person-66001
+Person 1 was not able to infect Person: 58134 already vaccinated
+Person 1 was not able to infect Person: 54248 already vaccinated
+Person 1 was not able to infect Person: 71575 already vaccinated
+Person 1 was not able to infect Person: 24700 because God had a plan and it wasn't Person 24700's' day to get infected
+Person 1 was not able to infect Person: 9773 already vaccinated
+Person 1 infected Person-50986
+Person 1 was not able to infect Person: 40770 because God had a plan and it wasn't Person 40770's' day to get infected
+Person 1 infected Person-20369
+Person 1 was not able to infect Person: 62007 already vaccinated
+Person 1 was not able to infect Person: 84003 already vaccinated
+Person 1 was not able to infect Person: 53575 already vaccinated
+Person 1 infected Person-77327
+Person 1 infected Person-61810
+Person 1 was not able to infect Person: 41847 because God had a plan and it wasn't Person 41847's' day to get infected
+Person 1 was not able to infect Person: 97970 already vaccinated
+Person 1 was not able to infect Person: 19241 because God had a plan and it wasn't Person 19241's' day to get infected
+Person 1 was not able to infect Person: 77690 already vaccinated
+Person 1 was not able to infect Person: 75725 already vaccinated
+Person 1 was not able to infect Person: 87010 already vaccinated
+Person 1 was not able to infect Person: 62231 already vaccinated
+Person 1 was not able to infect Person: 23276 already vaccinated
+Person 1 was not able to infect Person: 29048 because God had a plan and it wasn't Person 29048's' day to get infected
+Person 1 was not able to infect Person: 97279 already vaccinated
+Person 1 was not able to infect Person: 41451 already vaccinated
+Person 1 was not able to infect Person: 65737 already vaccinated
+Person 1 was not able to infect Person: 59357 already vaccinated
+Person 1 infected Person-71099
+Person 1 infected Person-61233
+Person 1 was not able to infect Person: 94494 because God had a plan and it wasn't Person 94494's' day to get infected
+Person 1 was not able to infect Person: 31779 already vaccinated
+Person 1 was not able to infect Person: 34274 already vaccinated
+Person 1 was not able to infect Person: 4102 already vaccinated
+Person 1 was not able to infect Person: 71062 already vaccinated
+Person 1 was not able to infect Person: 82733 already vaccinated
+Person 1 was not able to infect Person: 20682 already vaccinated
+Person 1 infected Person-19073
+Person 1 was not able to infect Person: 3442 already vaccinated
+Person 1 was not able to infect Person: 75350 because God had a plan and it wasn't Person 75350's' day to get infected
+Person 1 was not able to infect Person: 17925 already vaccinated
+Person 1 infected Person-10967
+Person 2 was not able to infect Person: 56879 already vaccinated
+Person 2 was not able to infect Person: 94507 already vaccinated
+Person 2 was not able to infect Person: 99523 already vaccinated
+Person 2 infected Person-88783
+Person 2 was not able to infect Person: 44227 already vaccinated
+Person 2 was not able to infect Person: 92210 already vaccinated
+Person 2 infected Person-59322
+Person 2 was not able to infect Person: 67808 already vaccinated
+Person 2 was not able to infect Person: 30731 because God had a plan and it wasn't Person 30731's' day to get infected
+Person 2 was not able to infect Person: 88365 already vaccinated
+Person 2 was not able to infect Person: 72942 already vaccinated
+Person 2 was not able to infect Person: 48759 already vaccinated
+Person 2 was not able to infect Person: 4976 already vaccinated
+Person 2 infected Person-20045
+Person 2 was not able to infect Person: 86615 because God had a plan and it wasn't Person 86615's' day to get infected
+Person 2 was not able to infect Person: 74906 because God had a plan and it wasn't Person 74906's' day to get infected
+Person 2 infected Person-39286
+Person 2 was not able to infect Person: 63961 already vaccinated
+Person 2 was not able to infect Person: 20283 already vaccinated
+Person 2 infected Person-7671
+Person 2 was not able to infect Person: 98399 already vaccinated
+Person 2 was not able to infect Person: 50838 because God had a plan and it wasn't Person 50838's' day to get infected
+Person 2 was not able to infect Person: 47331 already vaccinated
+Person 2 infected Person-75191
+Person 2 was not able to infect Person: 73634 already vaccinated
+Person 2 was not able to infect Person: 97870 already vaccinated
+Person 2 was not able to infect Person: 72620 already vaccinated
+Person 2 was not able to infect Person: 23448 already vaccinated
+Person 2 infected Person-46005
+Person 2 infected Person-53228
+Person 2 was not able to infect Person: 78695 already vaccinated
+Person 2 was not able to infect Person: 56159 already vaccinated
+Person 2 was not able to infect Person: 37034 already vaccinated
+Person 2 was not able to infect Person: 52803 already vaccinated
+Person 2 infected Person-65425
+Person 2 was not able to infect Person: 90594 already vaccinated
+Person 2 infected Person-19829
+Person 2 was not able to infect Person: 7987 already vaccinated
+Person 2 was not able to infect Person: 26738 because God had a plan and it wasn't Person 26738's' day to get infected
+Person 2 was not able to infect Person: 64774 already vaccinated
+Person 2 was not able to infect Person: 99184 already vaccinated
+Person 2 was not able to infect Person: 96111 because God had a plan and it wasn't Person 96111's' day to get infected
+Person 2 was not able to infect Person: 36354 already vaccinated
+Person 2 was not able to infect Person: 13304 because God had a plan and it wasn't Person 13304's' day to get infected
+Person 2 was not able to infect Person: 58234 already vaccinated
+Person 2 was not able to infect Person: 99723 already vaccinated
+Person 2 was not able to infect Person: 33913 already vaccinated
+Person 2 was not able to infect Person: 43246 already vaccinated
+Person 2 was not able to infect Person: 47776 already vaccinated
+Person 2 was not able to infect Person: 27868 because God had a plan and it wasn't Person 27868's' day to get infected
+Person 2 was not able to infect Person: 90345 already vaccinated
+Person 2 was not able to infect Person: 32783 already vaccinated
+Person 2 was not able to infect Person: 47921 already vaccinated
+Person 2 was not able to infect Person: 65559 already vaccinated
+Person 2 was not able to infect Person: 75653 because God had a plan and it wasn't Person 75653's' day to get infected
+Person 2 infected Person-37015
+Person 2 infected Person-61157
+Person 2 was not able to infect Person: 48212 already vaccinated
+Person 2 infected Person-84221
+Person 2 was not able to infect Person: 69445 already vaccinated
+Person 2 was not able to infect Person: 14028 already vaccinated
+Person 2 was not able to infect Person: 23001 already vaccinated
+Person 2 was not able to infect Person: 18522 already vaccinated
+Person 2 infected Person-53659
+Person 2 infected Person-68444
+Person 2 was not able to infect Person: 69157 already vaccinated
+Person 2 was not able to infect Person: 57448 already vaccinated
+Person 2 was not able to infect Person: 49369 already vaccinated
+Person 2 was not able to infect Person: 25011 because God had a plan and it wasn't Person 25011's' day to get infected
+Person 2 was not able to infect Person: 98243 because God had a plan and it wasn't Person 98243's' day to get infected
+Person 2 was not able to infect Person: 19274 because God had a plan and it wasn't Person 19274's' day to get infected
+Person 2 infected Person-36267
+Person 2 was not able to infect Person: 39784 because God had a plan and it wasn't Person 39784's' day to get infected
+Person 2 was not able to infect Person: 80552 already vaccinated
+Person 2 was not able to infect Person: 31620 because God had a plan and it wasn't Person 31620's' day to get infected
+Person 2 infected Person-73688
+Person 2 was not able to infect Person: 75570 already vaccinated
+Person 2 was not able to infect Person: 56159 already vaccinated
+Person 2 infected Person-25336
+Person 2 was not able to infect Person: 239 already vaccinated
+Person 2 infected Person-14559
+Person 2 was not able to infect Person: 37639 already vaccinated
+Person 2 was not able to infect Person: 27859 already vaccinated
+Person 2 was not able to infect Person: 48115 because God had a plan and it wasn't Person 48115's' day to get infected
+Person 2 was not able to infect Person: 24172 already vaccinated
+Person 2 was not able to infect Person: 33549 already vaccinated
+Person 2 infected Person-81918
+Person 2 infected Person-81890
+Person 2 was not able to infect Person: 92882 already vaccinated
+Person 2 was not able to infect Person: 84604 already vaccinated
+Person 2 was not able to infect Person: 77041 because God had a plan and it wasn't Person 77041's' day to get infected
+Person 2 was not able to infect Person: 54634 because God had a plan and it wasn't Person 54634's' day to get infected
+Person 2 was not able to infect Person: 55280 already vaccinated
+Person 2 infected Person-71596
+Person 2 infected Person-76361
+Person 2 was not able to infect Person: 14526 already vaccinated
+Person 2 was not able to infect Person: 25980 already vaccinated
+Person 2 infected Person-13438
+Person 2 infected Person-79565
+Person 2 was not able to infect Person: 44516 because God had a plan and it wasn't Person 44516's' day to get infected
+Person 3 was not able to infect Person: 11245 already vaccinated
+Person 3 was not able to infect Person: 56491 already vaccinated
+Person 3 was not able to infect Person: 53771 already vaccinated
+Person 3 was not able to infect Person: 45472 because God had a plan and it wasn't Person 45472's' day to get infected
+Person 3 infected Person-11698
+Person 3 was not able to infect Person: 59838 already vaccinated
+Person 3 infected Person-4876
+Person 3 was not able to infect Person: 9549 already vaccinated
+Person 3 was not able to infect Person: 6171 already vaccinated
+Person 3 infected Person-67703
+Person 3 was not able to infect Person: 47074 because God had a plan and it wasn't Person 47074's' day to get infected
+Person 3 was not able to infect Person: 7791 already vaccinated
+Person 3 was not able to infect Person: 90812 already vaccinated
+Person 3 was not able to infect Person: 87940 already vaccinated
+Person 3 was not able to infect Person: 60796 already vaccinated
+Person 3 infected Person-35711
+Person 3 was not able to infect Person: 38309 already vaccinated
+Person 3 was not able to infect Person: 70214 already vaccinated
+Person 3 was not able to infect Person: 55697 already vaccinated
+Person 3 was not able to infect Person: 60296 already vaccinated
+Person 3 infected Person-80334
+Person 3 was not able to infect Person: 26353 already vaccinated
+Person 3 was not able to infect Person: 80982 because God had a plan and it wasn't Person 80982's' day to get infected
+Person 3 was not able to infect Person: 32669 because God had a plan and it wasn't Person 32669's' day to get infected
+Person 3 was not able to infect Person: 96820 already vaccinated
+Person 3 was not able to infect Person: 33104 because God had a plan and it wasn't Person 33104's' day to get infected
+Person 3 was not able to infect Person: 52329 already vaccinated
+Person 3 was not able to infect Person: 19666 because God had a plan and it wasn't Person 19666's' day to get infected
+Person 3 was not able to infect Person: 91038 already vaccinated
+Person 3 infected Person-49724
+Person 3 infected Person-50776
+Person 3 was not able to infect Person: 96426 already vaccinated
+Person 3 was not able to infect Person: 76017 already vaccinated
+Person 3 infected Person-80484
+Person 3 was not able to infect Person: 14200 because God had a plan and it wasn't Person 14200's' day to get infected
+Person 3 was not able to infect Person: 51969 already vaccinated
+Person 3 was not able to infect Person: 54566 already vaccinated
+Person 3 was not able to infect Person: 11372 already vaccinated
+Person 3 was not able to infect Person: 66113 already vaccinated
+Person 3 was not able to infect Person: 87393 already vaccinated
+Person 3 was not able to infect Person: 75133 already vaccinated
+Person 3 infected Person-70815
+Person 3 infected Person-89663
+Person 3 was not able to infect Person: 57712 because God had a plan and it wasn't Person 57712's' day to get infected
+Person 3 was not able to infect Person: 14061 already vaccinated
+Person 3 was not able to infect Person: 3163 already vaccinated
+Person 3 was not able to infect Person: 86086 already vaccinated
+Person 3 was not able to infect Person: 83820 already vaccinated
+Person 3 was not able to infect Person: 40217 already vaccinated
+Person 3 was not able to infect Person: 25901 already vaccinated
+Person 3 was not able to infect Person: 25800 already vaccinated
+Person 3 infected Person-75255
+Person 3 infected Person-3573
+Person 3 was not able to infect Person: 23461 already vaccinated
+Person 3 was not able to infect Person: 20014 already vaccinated
+Person 3 was not able to infect Person: 54655 because God had a plan and it wasn't Person 54655's' day to get infected
+Person 3 infected Person-71045
+Person 3 infected Person-62649
+Person 3 was not able to infect Person: 3176 already vaccinated
+Person 3 was not able to infect Person: 15896 already vaccinated
+Person 3 was not able to infect Person: 93298 already vaccinated
+Person 3 was not able to infect Person: 90656 already vaccinated
+Person 3 was not able to infect Person: 4889 already vaccinated
+Person 3 was not able to infect Person: 72404 already vaccinated
+Person 3 was not able to infect Person: 10709 already vaccinated
+Person 3 was not able to infect Person: 50892 already vaccinated
+Person 3 infected Person-85204
+Person 3 infected Person-56233
+Person 3 was not able to infect Person: 2862 already vaccinated
+Person 3 was not able to infect Person: 47919 already vaccinated
+Person 3 was not able to infect Person: 22913 because God had a plan and it wasn't Person 22913's' day to get infected
+Person 3 was not able to infect Person: 82762 because God had a plan and it wasn't Person 82762's' day to get infected
+Person 3 was not able to infect Person: 25678 already vaccinated
+Person 3 infected Person-72903
+Person 3 was not able to infect Person: 6249 already vaccinated
+Person 3 infected Person-81256
+Person 3 was not able to infect Person: 65760 already vaccinated
+Person 3 infected Person-22331
+Person 3 was not able to infect Person: 47124 already vaccinated
+Person 3 was not able to infect Person: 69501 already vaccinated
+Person 3 was not able to infect Person: 96420 already vaccinated
+Person 3 was not able to infect Person: 55413 already vaccinated
+Person 3 was not able to infect Person: 22269 because God had a plan and it wasn't Person 22269's' day to get infected
+Person 3 was not able to infect Person: 13357 already vaccinated
+Person 3 was not able to infect Person: 7897 because God had a plan and it wasn't Person 7897's' day to get infected
+Person 3 infected Person-30125
+Person 3 was not able to infect Person: 89023 because God had a plan and it wasn't Person 89023's' day to get infected
+Person 3 infected Person-46480
+Person 3 was not able to infect Person: 82246 already vaccinated
+Person 3 was not able to infect Person: 25825 already vaccinated
+Person 3 was not able to infect Person: 16937 already vaccinated
+Person 3 was not able to infect Person: 61974 already vaccinated
+Person 3 was not able to infect Person: 78776 already vaccinated
+Person 3 was not able to infect Person: 5691 already vaccinated
+Person 3 was not able to infect Person: 91065 already vaccinated
+Person 3 infected Person-82799
+Person 3 was not able to infect Person: 59383 already vaccinated
+Person 3 was not able to infect Person: 12497 already vaccinated
+Person 3 was not able to infect Person: 36772 already vaccinated
+Person 3 was not able to infect Person: 43203 already vaccinated
+Person 4 was not able to infect Person: 95169 already vaccinated
+Person 4 was not able to infect Person: 83190 because God had a plan and it wasn't Person 83190's' day to get infected
+Person 4 was not able to infect Person: 69559 already vaccinated
+Person 4 infected Person-17684
+Person 4 was not able to infect Person: 28062 already vaccinated
+Person 4 infected Person-61621
+Person 4 was not able to infect Person: 77694 already vaccinated
+Person 4 was not able to infect Person: 3526 already vaccinated
+Person 4 infected Person-78669
+Person 4 was not able to infect Person: 92612 because God had a plan and it wasn't Person 92612's' day to get infected
+Person 4 was not able to infect Person: 256 already vaccinated
+Person 4 infected Person-89535
+Person 4 was not able to infect Person: 13569 already vaccinated
+Person 4 was not able to infect Person: 89091 already vaccinated
+Person 4 infected Person-1516
+Person 4 was not able to infect Person: 46456 already vaccinated
+Person 4 infected Person-79682
+Person 4 was not able to infect Person: 80503 already vaccinated
+Person 4 was not able to infect Person: 13008 because God had a plan and it wasn't Person 13008's' day to get infected
+Person 4 was not able to infect Person: 42774 already vaccinated
+Person 4 infected Person-74185
+Person 4 was not able to infect Person: 93678 because God had a plan and it wasn't Person 93678's' day to get infected
+Person 4 was not able to infect Person: 61383 already vaccinated
+Person 4 infected Person-20965
+Person 4 was not able to infect Person: 84408 because God had a plan and it wasn't Person 84408's' day to get infected
+Person 4 was not able to infect Person: 35768 already vaccinated
+Person 4 was not able to infect Person: 1056 already vaccinated
+Person 4 was not able to infect Person: 68043 because God had a plan and it wasn't Person 68043's' day to get infected
+Person 4 was not able to infect Person: 79966 already vaccinated
+Person 4 was not able to infect Person: 46878 already vaccinated
+Person 4 was not able to infect Person: 86440 already vaccinated
+Person 4 was not able to infect Person: 78833 because God had a plan and it wasn't Person 78833's' day to get infected
+Person 4 was not able to infect Person: 55131 already vaccinated
+Person 4 infected Person-1760
+Person 4 was not able to infect Person: 36908 already vaccinated
+Person 4 was not able to infect Person: 15294 because God had a plan and it wasn't Person 15294's' day to get infected
+Person 4 was not able to infect Person: 97181 because God had a plan and it wasn't Person 97181's' day to get infected
+Person 4 was not able to infect Person: 28706 because God had a plan and it wasn't Person 28706's' day to get infected
+Person 4 was not able to infect Person: 58643 already vaccinated
+Person 4 was not able to infect Person: 97773 already vaccinated
+Person 4 infected Person-43817
+Person 4 infected Person-8316
+Person 4 was not able to infect Person: 7393 already vaccinated
+Person 4 was not able to infect Person: 85492 already vaccinated
+Person 4 was not able to infect Person: 22277 already vaccinated
+Person 4 was not able to infect Person: 57694 because God had a plan and it wasn't Person 57694's' day to get infected
+Person 4 was not able to infect Person: 14648 already vaccinated
+Person 4 infected Person-24582
+Person 4 was not able to infect Person: 80165 already vaccinated
+Person 4 was not able to infect Person: 84019 already vaccinated
+Person 4 infected Person-87864
+Person 4 was not able to infect Person: 74990 already vaccinated
+Person 4 infected Person-66284
+Person 4 infected Person-41747
+Person 4 was not able to infect Person: 35620 already vaccinated
+Person 4 infected Person-12221
+Person 4 infected Person-57126
+Person 4 was not able to infect Person: 52968 already vaccinated
+Person 4 was not able to infect Person: 71029 already vaccinated
+Person 4 was not able to infect Person: 65978 because God had a plan and it wasn't Person 65978's' day to get infected
+Person 4 was not able to infect Person: 83633 because God had a plan and it wasn't Person 83633's' day to get infected
+Person 4 was not able to infect Person: 77577 because God had a plan and it wasn't Person 77577's' day to get infected
+Person 4 was not able to infect Person: 87302 already vaccinated
+Person 4 was not able to infect Person: 30576 already vaccinated
+Person 4 was not able to infect Person: 1061 already vaccinated
+Person 4 infected Person-33469
+Person 4 infected Person-49262
+Person 4 was not able to infect Person: 48783 because God had a plan and it wasn't Person 48783's' day to get infected
+Person 4 infected Person-49529
+Person 4 was not able to infect Person: 95281 already vaccinated
+Person 4 was not able to infect Person: 7553 already vaccinated
+Person 4 was not able to infect Person: 21914 already vaccinated
+Person 4 infected Person-60270
+Person 4 infected Person-20869
+Person 4 was not able to infect Person: 65540 because God had a plan and it wasn't Person 65540's' day to get infected
+Person 4 was not able to infect Person: 45794 already vaccinated
+Person 4 was not able to infect Person: 20896 already vaccinated
+Person 4 was not able to infect Person: 69647 already vaccinated
+Person 4 was not able to infect Person: 74516 already vaccinated
+Person 4 infected Person-59921
+Person 4 was not able to infect Person: 67611 already vaccinated
+Person 4 was not able to infect Person: 36336 already vaccinated
+Person 4 was not able to infect Person: 62394 already vaccinated
+Person 4 was not able to infect Person: 98773 already vaccinated
+Person 4 was not able to infect Person: 38344 already vaccinated
+Person 4 was not able to infect Person: 49507 already vaccinated
+Person 4 was not able to infect Person: 10498 because God had a plan and it wasn't Person 10498's' day to get infected
+Person 4 was not able to infect Person: 22950 already vaccinated
+Person 4 was not able to infect Person: 57403 already vaccinated
+Person 4 was not able to infect Person: 43624 already vaccinated
+Person 4 infected Person-933
+Person 4 was not able to infect Person: 82706 already vaccinated
+Person 4 was not able to infect Person: 26394 because God had a plan and it wasn't Person 26394's' day to get infected
+Person 4 was not able to infect Person: 55235 already vaccinated
+Person 4 was not able to infect Person: 7442 already vaccinated
+Person 4 was not able to infect Person: 79820 already vaccinated
+Person 4 infected Person-24984
+Person 4 was not able to infect Person: 15013 already vaccinated
+Person 4 was not able to infect Person: 22417 already vaccinated
+Person 4 was not able to infect Person: 24978 already vaccinated
+Person 5 was not able to infect Person: 5419 already vaccinated
+Person 5 was not able to infect Person: 10090 already vaccinated
+Person 5 infected Person-63894
+Person 5 infected Person-4145
+Person 5 was not able to infect Person: 23166 already vaccinated
+Person 5 was not able to infect Person: 69311 already vaccinated
+Person 5 was not able to infect Person: 83017 already vaccinated
+Person 5 was not able to infect Person: 6314 because God had a plan and it wasn't Person 6314's' day to get infected
+Person 5 was not able to infect Person: 60206 already vaccinated
+Person 5 was not able to infect Person: 89740 already vaccinated
+Person 5 was not able to infect Person: 91871 already vaccinated
+Person 5 infected Person-59897
+Person 5 was not able to infect Person: 20450 already vaccinated
+Person 5 infected Person-11112
+Person 5 infected Person-16706
+Person 5 was not able to infect Person: 35893 already vaccinated
+Person 5 infected Person-19799
+Person 5 was not able to infect Person: 22932 already vaccinated
+Person 5 infected Person-40510
+Person 5 was not able to infect Person: 57972 already vaccinated
+Person 5 infected Person-94093
+Person 5 was not able to infect Person: 2567 already vaccinated
+Person 5 was not able to infect Person: 89533 already vaccinated
+Person 5 was not able to infect Person: 33198 because God had a plan and it wasn't Person 33198's' day to get infected
+Person 5 was not able to infect Person: 28284 already vaccinated
+Person 5 infected Person-84657
+Person 5 was not able to infect Person: 17745 already vaccinated
+Person 5 was not able to infect Person: 91035 already vaccinated
+Person 5 was not able to infect Person: 36792 already vaccinated
+Person 5 was not able to infect Person: 51782 already vaccinated
+Person 5 infected Person-12543
+Person 5 infected Person-94551
+Person 5 was not able to infect Person: 80238 already vaccinated
+Person 5 was not able to infect Person: 94949 already vaccinated
+Person 5 infected Person-90303
+Person 5 was not able to infect Person: 11999 already vaccinated
+Person 5 was not able to infect Person: 54989 already vaccinated
+Person 5 was not able to infect Person: 1979 already vaccinated
+Person 5 was not able to infect Person: 26933 already vaccinated
+Person 5 was not able to infect Person: 90931 already vaccinated
+Person 5 infected Person-43444
+Person 5 was not able to infect Person: 54388 already vaccinated
+Person 5 infected Person-53130
+Person 5 infected Person-94914
+Person 5 infected Person-52173
+Person 5 infected Person-67682
+Person 5 was not able to infect Person: 90335 already vaccinated
+Person 5 was not able to infect Person: 15895 already vaccinated
+Person 5 was not able to infect Person: 40216 already vaccinated
+Person 5 was not able to infect Person: 12415 already vaccinated
+Person 5 was not able to infect Person: 21968 because God had a plan and it wasn't Person 21968's' day to get infected
+Person 5 was not able to infect Person: 20459 already vaccinated
+Person 5 was not able to infect Person: 60461 already vaccinated
+Person 5 was not able to infect Person: 47663 already vaccinated
+Person 5 was not able to infect Person: 49916 already vaccinated
+Person 5 infected Person-48675
+Person 5 was not able to infect Person: 10435 because God had a plan and it wasn't Person 10435's' day to get infected
+Person 5 was not able to infect Person: 79546 because God had a plan and it wasn't Person 79546's' day to get infected
+Person 5 was not able to infect Person: 70535 because God had a plan and it wasn't Person 70535's' day to get infected
+Person 5 was not able to infect Person: 87506 because God had a plan and it wasn't Person 87506's' day to get infected
+Person 5 was not able to infect Person: 10721 already vaccinated
+Person 5 was not able to infect Person: 26722 already vaccinated
+Person 5 was not able to infect Person: 25769 already vaccinated
+Person 5 infected Person-82809
+Person 5 infected Person-7294
+Person 5 was not able to infect Person: 66017 already vaccinated
+Person 5 was not able to infect Person: 91208 already vaccinated
+Person 5 infected Person-52068
+Person 5 was not able to infect Person: 87073 because God had a plan and it wasn't Person 87073's' day to get infected
+Person 5 was not able to infect Person: 24344 already vaccinated
+Person 5 was not able to infect Person: 25300 already vaccinated
+Person 5 was not able to infect Person: 46000 because God had a plan and it wasn't Person 46000's' day to get infected
+Person 5 was not able to infect Person: 26411 already vaccinated
+Person 5 was not able to infect Person: 93759 already vaccinated
+Person 5 infected Person-47386
+Person 5 was not able to infect Person: 72335 already vaccinated
+Person 5 was not able to infect Person: 61976 because God had a plan and it wasn't Person 61976's' day to get infected
+Person 5 was not able to infect Person: 63601 already vaccinated
+Person 5 was not able to infect Person: 9369 because God had a plan and it wasn't Person 9369's' day to get infected
+Person 5 infected Person-39680
+Person 5 was not able to infect Person: 78686 already vaccinated
+Person 5 was not able to infect Person: 63830 already vaccinated
+Person 5 was not able to infect Person: 28981 already vaccinated
+Person 5 infected Person-6180
+Person 5 infected Person-41828
+Person 5 infected Person-16531
+Person 5 infected Person-88992
+Person 5 infected Person-26081
+Person 5 was not able to infect Person: 45756 because God had a plan and it wasn't Person 45756's' day to get infected
+Person 5 was not able to infect Person: 26428 already vaccinated
+Person 5 was not able to infect Person: 50729 because God had a plan and it wasn't Person 50729's' day to get infected
+Person 5 was not able to infect Person: 3708 already vaccinated
+Person 5 was not able to infect Person: 41276 already vaccinated
+Person 5 was not able to infect Person: 10689 already vaccinated
+Person 5 infected Person-25424
+Person 5 infected Person-3789
+Person 5 was not able to infect Person: 43901 already vaccinated
+Person 5 was not able to infect Person: 94212 already vaccinated
+Person 5 was not able to infect Person: 45289 because God had a plan and it wasn't Person 45289's' day to get infected
+Person 5 was not able to infect Person: 50242 already vaccinated
+Person 6 was not able to infect Person: 30963 already vaccinated
+Person 6 infected Person-40706
+Person 6 infected Person-43845
+Person 6 infected Person-15672
+Person 6 infected Person-37837
+Person 6 was not able to infect Person: 23903 already vaccinated
+Person 6 was not able to infect Person: 75344 already vaccinated
+Person 6 was not able to infect Person: 91603 already vaccinated
+Person 6 was not able to infect Person: 55228 already vaccinated
+Person 6 infected Person-35862
+Person 6 was not able to infect Person: 78364 already vaccinated
+Person 6 infected Person-21996
+Person 6 was not able to infect Person: 43631 already vaccinated
+Person 6 was not able to infect Person: 8957 already vaccinated
+Person 6 was not able to infect Person: 56135 already vaccinated
+Person 6 was not able to infect Person: 2829 because God had a plan and it wasn't Person 2829's' day to get infected
+Person 6 was not able to infect Person: 729 already vaccinated
+Person 6 was not able to infect Person: 59037 already vaccinated
+Person 6 was not able to infect Person: 34141 already vaccinated
+Person 6 was not able to infect Person: 11564 already vaccinated
+Person 6 was not able to infect Person: 94190 already vaccinated
+Person 6 infected Person-47380
+Person 6 infected Person-23213
+Person 6 was not able to infect Person: 85791 already vaccinated
+Person 6 was not able to infect Person: 85720 because God had a plan and it wasn't Person 85720's' day to get infected
+Person 6 infected Person-38241
+Person 6 was not able to infect Person: 57887 already vaccinated
+Person 6 was not able to infect Person: 42890 because God had a plan and it wasn't Person 42890's' day to get infected
+Person 6 was not able to infect Person: 18405 already vaccinated
+Person 6 was not able to infect Person: 74737 already vaccinated
+Person 6 was not able to infect Person: 96567 because God had a plan and it wasn't Person 96567's' day to get infected
+Person 6 was not able to infect Person: 32291 already vaccinated
+Person 6 was not able to infect Person: 96599 already vaccinated
+Person 6 was not able to infect Person: 2517 because God had a plan and it wasn't Person 2517's' day to get infected
+Person 6 was not able to infect Person: 90781 already vaccinated
+Person 6 was not able to infect Person: 37817 because God had a plan and it wasn't Person 37817's' day to get infected
+Person 6 was not able to infect Person: 19618 already vaccinated
+Person 6 was not able to infect Person: 84436 already vaccinated
+Person 6 was not able to infect Person: 4308 already vaccinated
+Person 6 was not able to infect Person: 65257 because God had a plan and it wasn't Person 65257's' day to get infected
+Person 6 infected Person-92343
+Person 6 was not able to infect Person: 32319 already vaccinated
+Person 6 was not able to infect Person: 15904 already vaccinated
+Person 6 was not able to infect Person: 35568 already vaccinated
+Person 6 infected Person-20107
+Person 6 was not able to infect Person: 4303 already vaccinated
+Person 6 infected Person-50237
+Person 6 was not able to infect Person: 81764 already vaccinated
+Person 6 was not able to infect Person: 4257 already vaccinated
+Person 6 was not able to infect Person: 30221 already vaccinated
+Person 6 was not able to infect Person: 78123 already vaccinated
+Person 6 infected Person-10181
+Person 6 was not able to infect Person: 78686 already vaccinated
+Person 6 was not able to infect Person: 43114 already vaccinated
+Person 6 was not able to infect Person: 81086 already vaccinated
+Person 6 was not able to infect Person: 53146 already vaccinated
+Person 6 was not able to infect Person: 6991 because God had a plan and it wasn't Person 6991's' day to get infected
+Person 6 infected Person-70637
+Person 6 was not able to infect Person: 45971 already vaccinated
+Person 6 was not able to infect Person: 64233 because God had a plan and it wasn't Person 64233's' day to get infected
+Person 6 infected Person-92678
+Person 6 was not able to infect Person: 69366 already vaccinated
+Person 6 was not able to infect Person: 86713 because God had a plan and it wasn't Person 86713's' day to get infected
+Person 6 infected Person-82739
+Person 6 infected Person-46101
+Person 6 was not able to infect Person: 60556 already vaccinated
+Person 6 was not able to infect Person: 45029 already vaccinated
+Person 6 was not able to infect Person: 2471 already vaccinated
+Person 6 was not able to infect Person: 6342 already vaccinated
+Person 6 was not able to infect Person: 37447 because God had a plan and it wasn't Person 37447's' day to get infected
+Person 6 was not able to infect Person: 46508 already vaccinated
+Person 6 was not able to infect Person: 53538 already vaccinated
+Person 6 was not able to infect Person: 10978 already vaccinated
+Person 6 was not able to infect Person: 49735 already vaccinated
+Person 6 was not able to infect Person: 49211 already vaccinated
+Person 6 was not able to infect Person: 36450 already vaccinated
+Person 6 infected Person-72777
+Person 6 was not able to infect Person: 89525 already vaccinated
+Person 6 was not able to infect Person: 35241 already vaccinated
+Person 6 was not able to infect Person: 97134 already vaccinated
+Person 6 was not able to infect Person: 28615 already vaccinated
+Person 6 was not able to infect Person: 17763 already vaccinated
+Person 6 was not able to infect Person: 88017 because God had a plan and it wasn't Person 88017's' day to get infected
+Person 6 was not able to infect Person: 79100 already vaccinated
+Person 6 was not able to infect Person: 23782 already vaccinated
+Person 6 was not able to infect Person: 93887 because God had a plan and it wasn't Person 93887's' day to get infected
+Person 6 was not able to infect Person: 70960 already vaccinated
+Person 6 was not able to infect Person: 67861 already vaccinated
+Person 6 was not able to infect Person: 86036 because God had a plan and it wasn't Person 86036's' day to get infected
+Person 6 was not able to infect Person: 21661 already vaccinated
+Person 6 was not able to infect Person: 46975 already vaccinated
+Person 6 was not able to infect Person: 1795 because God had a plan and it wasn't Person 1795's' day to get infected
+Person 6 infected Person-91438
+Person 6 was not able to infect Person: 1349 already vaccinated
+Person 6 was not able to infect Person: 39579 already vaccinated
+Person 6 was not able to infect Person: 53627 already vaccinated
+Person 6 infected Person-28000
+Person 6 infected Person-61212
+Person 6 infected Person-35829
+Person 6 was not able to infect Person: 85496 already vaccinated
+Person 7 infected Person-64981
+Person 7 infected Person-75797
+Person 7 was not able to infect Person: 20969 because God had a plan and it wasn't Person 20969's' day to get infected
+Person 7 infected Person-55917
+Person 7 was not able to infect Person: 12740 already vaccinated
+Person 7 infected Person-47356
+Person 7 was not able to infect Person: 10076 already vaccinated
+Person 7 was not able to infect Person: 54744 already vaccinated
+Person 7 infected Person-93393
+Person 7 was not able to infect Person: 79474 already vaccinated
+Person 7 was not able to infect Person: 16735 already vaccinated
+Person 7 was not able to infect Person: 21816 already vaccinated
+Person 7 was not able to infect Person: 21137 because God had a plan and it wasn't Person 21137's' day to get infected
+Person 7 was not able to infect Person: 42751 already vaccinated
+Person 7 was not able to infect Person: 24659 already vaccinated
+Person 7 was not able to infect Person: 79908 already vaccinated
+Person 7 infected Person-67470
+Person 7 was not able to infect Person: 8537 already vaccinated
+Person 7 was not able to infect Person: 88329 because God had a plan and it wasn't Person 88329's' day to get infected
+Person 7 was not able to infect Person: 1040 already vaccinated
+Person 7 was not able to infect Person: 5457 already vaccinated
+Person 7 was not able to infect Person: 61476 already vaccinated
+Person 7 was not able to infect Person: 99558 because God had a plan and it wasn't Person 99558's' day to get infected
+Person 7 was not able to infect Person: 92368 already vaccinated
+Person 7 was not able to infect Person: 90711 because God had a plan and it wasn't Person 90711's' day to get infected
+Person 7 was not able to infect Person: 50190 already vaccinated
+Person 7 was not able to infect Person: 28030 already vaccinated
+Person 7 was not able to infect Person: 13289 already vaccinated
+Person 7 was not able to infect Person: 21287 already vaccinated
+Person 7 infected Person-3445
+Person 7 infected Person-49842
+Person 7 was not able to infect Person: 69339 already vaccinated
+Person 7 was not able to infect Person: 45795 already vaccinated
+Person 7 infected Person-59744
+Person 7 was not able to infect Person: 41654 already vaccinated
+Person 7 was not able to infect Person: 51453 already vaccinated
+Person 7 was not able to infect Person: 67096 already vaccinated
+Person 7 infected Person-91158
+Person 7 was not able to infect Person: 79699 already vaccinated
+Person 7 infected Person-52840
+Person 7 was not able to infect Person: 10948 already vaccinated
+Person 7 was not able to infect Person: 93583 already vaccinated
+Person 7 was not able to infect Person: 24335 already vaccinated
+Person 7 was not able to infect Person: 8272 already vaccinated
+Person 7 was not able to infect Person: 68293 already vaccinated
+Person 7 was not able to infect Person: 84477 already vaccinated
+Person 7 infected Person-7639
+Person 7 infected Person-254
+Person 7 was not able to infect Person: 89992 already vaccinated
+Person 7 infected Person-10059
+Person 7 was not able to infect Person: 20929 because God had a plan and it wasn't Person 20929's' day to get infected
+Person 7 was not able to infect Person: 31544 because God had a plan and it wasn't Person 31544's' day to get infected
+Person 7 was not able to infect Person: 60485 already vaccinated
+Person 7 infected Person-99203
+Person 7 was not able to infect Person: 48598 already vaccinated
+Person 7 was not able to infect Person: 79395 already vaccinated
+Person 7 was not able to infect Person: 25647 already vaccinated
+Person 7 was not able to infect Person: 16467 already vaccinated
+Person 7 was not able to infect Person: 71767 already vaccinated
+Person 7 was not able to infect Person: 15895 already vaccinated
+Person 7 was not able to infect Person: 75055 already vaccinated
+Person 7 was not able to infect Person: 3182 because God had a plan and it wasn't Person 3182's' day to get infected
+Person 7 was not able to infect Person: 35453 already vaccinated
+Person 7 was not able to infect Person: 51322 already vaccinated
+Person 7 was not able to infect Person: 53942 because God had a plan and it wasn't Person 53942's' day to get infected
+Person 7 was not able to infect Person: 20051 already vaccinated
+Person 7 was not able to infect Person: 97959 already vaccinated
+Person 7 was not able to infect Person: 96158 already vaccinated
+Person 7 was not able to infect Person: 66420 because God had a plan and it wasn't Person 66420's' day to get infected
+Person 7 was not able to infect Person: 61658 because God had a plan and it wasn't Person 61658's' day to get infected
+Person 7 infected Person-3029
+Person 7 infected Person-16005
+Person 7 was not able to infect Person: 78221 already vaccinated
+Person 7 was not able to infect Person: 48277 already vaccinated
+Person 7 was not able to infect Person: 12631 already vaccinated
+Person 7 was not able to infect Person: 92218 already vaccinated
+Person 7 was not able to infect Person: 60456 already vaccinated
+Person 7 infected Person-62306
+Person 7 was not able to infect Person: 90729 already vaccinated
+Person 7 was not able to infect Person: 50776 because God had a plan and it wasn't Person 50776's' day to get infected
+Person 7 was not able to infect Person: 62033 already vaccinated
+Person 7 was not able to infect Person: 93972 already vaccinated
+Person 7 infected Person-3780
+Person 7 was not able to infect Person: 10937 already vaccinated
+Person 7 was not able to infect Person: 52083 already vaccinated
+Person 7 was not able to infect Person: 20636 already vaccinated
+Person 7 was not able to infect Person: 70818 already vaccinated
+Person 7 was not able to infect Person: 29014 already vaccinated
+Person 7 was not able to infect Person: 88382 already vaccinated
+Person 7 was not able to infect Person: 24454 already vaccinated
+Person 7 infected Person-81559
+Person 7 infected Person-29898
+Person 7 was not able to infect Person: 91553 already vaccinated
+Person 7 was not able to infect Person: 22874 because God had a plan and it wasn't Person 22874's' day to get infected
+Person 7 was not able to infect Person: 44244 because God had a plan and it wasn't Person 44244's' day to get infected
+Person 7 was not able to infect Person: 89485 already vaccinated
+Person 7 was not able to infect Person: 46824 already vaccinated
+Person 7 was not able to infect Person: 17821 already vaccinated
+Person 7 was not able to infect Person: 99633 already vaccinated
+Person 7 was not able to infect Person: 6363 already vaccinated
+Person 8 was not able to infect Person: 71121 because God had a plan and it wasn't Person 71121's' day to get infected
+Person 8 was not able to infect Person: 9069 because God had a plan and it wasn't Person 9069's' day to get infected
+Person 8 infected Person-80492
+Person 8 infected Person-44410
+Person 8 infected Person-41809
+Person 8 was not able to infect Person: 2520 already vaccinated
+Person 8 infected Person-66487
+Person 8 was not able to infect Person: 89778 already vaccinated
+Person 8 was not able to infect Person: 77893 already vaccinated
+Person 8 was not able to infect Person: 63473 because God had a plan and it wasn't Person 63473's' day to get infected
+Person 8 was not able to infect Person: 30871 already vaccinated
+Person 8 was not able to infect Person: 48113 because God had a plan and it wasn't Person 48113's' day to get infected
+Person 8 infected Person-73256
+Person 8 was not able to infect Person: 87509 already vaccinated
+Person 8 was not able to infect Person: 18236 already vaccinated
+Person 8 was not able to infect Person: 92368 already vaccinated
+Person 8 was not able to infect Person: 36392 because God had a plan and it wasn't Person 36392's' day to get infected
+Person 8 infected Person-84510
+Person 8 was not able to infect Person: 62781 because God had a plan and it wasn't Person 62781's' day to get infected
+Person 8 was not able to infect Person: 77343 already vaccinated
+Person 8 was not able to infect Person: 84102 because God had a plan and it wasn't Person 84102's' day to get infected
+Person 8 infected Person-90217
+Person 8 was not able to infect Person: 95284 already vaccinated
+Person 8 was not able to infect Person: 98286 already vaccinated
+Person 8 infected Person-81132
+Person 8 was not able to infect Person: 43806 already vaccinated
+Person 8 infected Person-29792
+Person 8 was not able to infect Person: 60636 already vaccinated
+Person 8 infected Person-23797
+Person 8 was not able to infect Person: 58845 because God had a plan and it wasn't Person 58845's' day to get infected
+Person 8 was not able to infect Person: 18942 already vaccinated
+Person 8 was not able to infect Person: 26194 already vaccinated
+Person 8 was not able to infect Person: 51289 already vaccinated
+Person 8 was not able to infect Person: 58241 already vaccinated
+Person 8 was not able to infect Person: 47830 already vaccinated
+Person 8 was not able to infect Person: 90620 already vaccinated
+Person 8 was not able to infect Person: 93929 because God had a plan and it wasn't Person 93929's' day to get infected
+Person 8 was not able to infect Person: 66397 already vaccinated
+Person 8 infected Person-86028
+Person 8 was not able to infect Person: 41924 already vaccinated
+Person 8 infected Person-22065
+Person 8 was not able to infect Person: 89372 already vaccinated
+Person 8 was not able to infect Person: 33381 already vaccinated
+Person 8 was not able to infect Person: 96717 already vaccinated
+Person 8 was not able to infect Person: 93001 because God had a plan and it wasn't Person 93001's' day to get infected
+Person 8 was not able to infect Person: 76260 because God had a plan and it wasn't Person 76260's' day to get infected
+Person 8 was not able to infect Person: 76037 already vaccinated
+Person 8 infected Person-65322
+Person 8 was not able to infect Person: 61223 already vaccinated
+Person 8 was not able to infect Person: 54857 already vaccinated
+Person 8 was not able to infect Person: 1737 already vaccinated
+Person 8 infected Person-14508
+Person 8 was not able to infect Person: 1179 already vaccinated
+Person 8 infected Person-65878
+Person 8 was not able to infect Person: 71247 already vaccinated
+Person 8 was not able to infect Person: 8998 because God had a plan and it wasn't Person 8998's' day to get infected
+Person 8 was not able to infect Person: 37557 already vaccinated
+Person 8 was not able to infect Person: 50442 already vaccinated
+Person 8 infected Person-83431
+Person 8 was not able to infect Person: 40371 already vaccinated
+Person 8 was not able to infect Person: 734 because God had a plan and it wasn't Person 734's' day to get infected
+Person 8 was not able to infect Person: 18672 already vaccinated
+Person 8 was not able to infect Person: 96148 already vaccinated
+Person 8 was not able to infect Person: 8638 already vaccinated
+Person 8 was not able to infect Person: 94911 already vaccinated
+Person 8 was not able to infect Person: 49753 because God had a plan and it wasn't Person 49753's' day to get infected
+Person 8 was not able to infect Person: 36149 because God had a plan and it wasn't Person 36149's' day to get infected
+Person 8 was not able to infect Person: 93557 already vaccinated
+Person 8 was not able to infect Person: 61790 already vaccinated
+Person 8 was not able to infect Person: 3023 because God had a plan and it wasn't Person 3023's' day to get infected
+Person 8 was not able to infect Person: 12981 because God had a plan and it wasn't Person 12981's' day to get infected
+Person 8 was not able to infect Person: 48562 already vaccinated
+Person 8 was not able to infect Person: 50565 already vaccinated
+Person 8 was not able to infect Person: 77781 because God had a plan and it wasn't Person 77781's' day to get infected
+Person 8 was not able to infect Person: 19255 because God had a plan and it wasn't Person 19255's' day to get infected
+Person 8 infected Person-81902
+Person 8 was not able to infect Person: 88480 already vaccinated
+Person 8 was not able to infect Person: 10257 already vaccinated
+Person 8 infected Person-64759
+Person 8 infected Person-52074
+Person 8 was not able to infect Person: 11700 already vaccinated
+Person 8 was not able to infect Person: 98288 already vaccinated
+Person 8 infected Person-34800
+Person 8 infected Person-30497
+Person 8 was not able to infect Person: 60321 already vaccinated
+Person 8 infected Person-66139
+Person 8 infected Person-93852
+Person 8 was not able to infect Person: 17957 already vaccinated
+Person 8 was not able to infect Person: 54601 already vaccinated
+Person 8 was not able to infect Person: 7741 because God had a plan and it wasn't Person 7741's' day to get infected
+Person 8 infected Person-40929
+Person 8 was not able to infect Person: 4493 already vaccinated
+Person 8 was not able to infect Person: 6138 already vaccinated
+Person 8 was not able to infect Person: 29334 already vaccinated
+Person 8 was not able to infect Person: 72170 because God had a plan and it wasn't Person 72170's' day to get infected
+Person 8 infected Person-5496
+Person 8 was not able to infect Person: 37485 already vaccinated
+Person 8 was not able to infect Person: 34055 already vaccinated
+Person 8 was not able to infect Person: 49324 already vaccinated
+Person 8 was not able to infect Person: 58548 already vaccinated
+Person 0 survived. 
+Person 1 survived. 
+Person 2 survived. 
+Person 3 survived. 
+Person 4 died. 
+Person 5 survived. 
+Person 6 survived. 
+Person 7 died. 
+Person 8 survived. 
